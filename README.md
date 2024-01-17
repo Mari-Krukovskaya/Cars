@@ -1,4 +1,4 @@
-<!-- ## Description:
+## Description:
  Адаптивная вёрстка по макету Figma
 
-[Website]( "Cars") -->
+[Website](https://mari-krukovskaya.github.io/Cars/ "Cars")
